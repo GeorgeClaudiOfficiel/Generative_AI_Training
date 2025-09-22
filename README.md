@@ -10,7 +10,7 @@ Take away: In the current era we are in; the greatest limitation is our mindset.
 
 The use of Artificial Neural Networks (ANN). In an experiment conducted in the early 1980's scientist discovered that a bird in captive could differentiate between paintings by different artists. This led to research of how to make computers have the human intuition and reasoning by replicating the working of the human brain. Since the human brain utilises neurons to differentiate between different scenarios, the scientists decided to model ANN to replicate the intuition process which led to amazing results that have advanced to the creation of the current LLMs (Large Language Models). The use of Input -> Node -> Output.
 
-#### Fundamental components of biological neural nets:
+#### Fundamental components of biological neural nets
 
 1. Neurones (nodes)
 2. Synapses (weights)
@@ -18,4 +18,4 @@ The use of Artificial Neural Networks (ANN). In an experiment conducted in the e
 #### Structure of a neurone
 
 ![Nuerone Structure](Images/Neurone_Structure.png)
-![Nueral Network Working](Images/Neurone_Structure.png)
+![Nueral Network Working](Images/Neural_Network.png)
